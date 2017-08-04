@@ -1,0 +1,10 @@
+c:\users\grimm\documents\visual studio 2015\Projects\VirtualFile\VirtualFile\bin\Debug\VirtualFile.pdb
+c:\users\grimm\documents\visual studio 2015\Projects\VirtualFile\VirtualFile\obj\Debug\VirtualFile.csprojResolveAssemblyReference.cache
+c:\users\grimm\documents\visual studio 2015\Projects\VirtualFile\VirtualFile\obj\Debug\VirtualFile.pdb
+c:\users\grimm\documents\visual studio 2015\Projects\VirtualFile\VirtualFile\bin\Debug\VirtualFile.exe
+c:\users\grimm\documents\visual studio 2015\Projects\VirtualFile\VirtualFile\obj\Debug\VirtualFile.exe
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\VirtualFile\VirtualFile\obj\Debug\VirtualFile.exe
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\VirtualFile\VirtualFile\obj\Debug\VirtualFile.pdb
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\VirtualFile\VirtualFile\bin\Debug\VirtualFile.exe
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\VirtualFile\VirtualFile\bin\Debug\VirtualFile.pdb
+F:\Users\Max Grimmett\Documents\Visual Studio 2015\Projects\VirtualFile\VirtualFile\obj\Debug\VirtualFile.csprojResolveAssemblyReference.cache
